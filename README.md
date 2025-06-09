@@ -33,5 +33,5 @@ This project performs exploratory data analysis on country-wise GDP data using P
 ## 👨‍💻 Author
 
 **Aniket Jagtap**  
-GitHub: [your-username]  
-LinkedIn: [your-link]
+GitHub: [aniketjagtap42]  
+LinkedIn: [www.linkedin.com/in/aniket-jagtap-27b21835b]
